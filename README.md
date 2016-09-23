@@ -22,3 +22,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+
+## Resources
+http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/086/original/phoenix-is-not-your-application.pdf?1463060837
+https://www.youtube.com/watch?v=lDKCSheBc-8
